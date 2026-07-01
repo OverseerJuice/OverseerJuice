@@ -19,4 +19,4 @@ Delete the file from `sounds/` and push.
 
 ## Enable GitHub Pages (one time)
 Repo → **Settings → Pages** → Source: **Deploy from a branch** → Branch: `main` / root → Save.
-Site goes live at `https://freeedie666.github.io/`.
+Site goes live at `https://overseerjuice.github.io/`.
